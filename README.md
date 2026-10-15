@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Vikas Pareek 👋
+🎯 Aspiring AI Engineer
+I'm learning Python and building projects to improve my programming skills.
 
-<!--
-**vikas245com/vikas245com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently Learning
+Python
+SQL and MySQL
+Git and GitHub
+Artificial Intelligence and Machine Learning
 
-Here are some ideas to get you started:
+💻 My Projects
+Student Result Manager — A Python program to calculate student marks, percentage, grades, and pass/fail results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My Goal
+To become an AI Engineer and build useful AI-powered educational products.
+
+📚 My Learning Journey
+I believe in learning by building projects and solving real-world problems.
